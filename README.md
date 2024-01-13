@@ -3,6 +3,9 @@
 - [Verwendung](#verwendung)
 - [Erklärung](#erklärung)
 
+## 2024-01-13 Beispiel
+![Alt text](20240113_showcase.png)
+
 ## Installation
 1. Clone das Repository: `git clone https://github.com/FeuerwehrHackathon2024/water_rescue.git`
 2. Wechsle in das Projektverzeichnis: `cd frontend`
